@@ -6,7 +6,7 @@ Esse projeto consiste em mostrar a utilização de conceitos de POO, como Abstra
 
 
 
-#### Criação
+## Criação
 
 
 
@@ -14,7 +14,7 @@ Nesse projeto são criadas as classes "Pessoa", "Livro", a classe principal "Pro
 
 
 
-###### Classe Pessoa: 
+### Classe Pessoa: 
 
 
 
@@ -32,7 +32,7 @@ Seus métodos:
 
 
 
-###### Classe Livro:
+### Classe Livro:
 
 
 
@@ -61,7 +61,7 @@ Métodos abstratos (Onde é feita a sobrescrita e implementação dos métodos d
 
 
 
-###### Interface Publicacao:
+### Interface Publicacao:
 
 
 
@@ -75,7 +75,7 @@ A interface "***Publicacao***" contém especificações para implementação em 
 
 
 
-###### Classe ProjetoLivro (Classe principal)
+### Classe ProjetoLivro (Classe principal)
 
 
 
